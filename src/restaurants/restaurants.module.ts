@@ -5,3 +5,4 @@ import { RestaurantResolver } from './restaurants.resolver';
   providers: [RestaurantResolver],
 })
 export class RestaurantsModule {}
+//
